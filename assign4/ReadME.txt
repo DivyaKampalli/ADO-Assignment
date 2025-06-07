@@ -3,18 +3,6 @@
 
 ## B+ Tree
 
-### Team Members:
-- Abhiram Ravipati                 - aravipati@hawk.iit.edu      - A20539084 
-- Divya Kampalli                   - kdivya1@hawk.iit.edu        - A20539479   
-- Sai Jayanth Rajamahendravaram    - srajamahendram@hawk.iit.edu - A20539434
-- Sri Samhitha Bobba               - sbobba1@hawk.iit.edu        - A20541559
-
-### Contributions
-- Abhiram Ravipati                - hmInit(), hash(), structHM(), insertHM(), getHM(), stack_push(), stack_pop(), stack_empty(), stack_destroy(), loadBtreeNodes(), findNodeByKey(),  getKeyType(), findKey(), closeTreeScan(), insertKey()
-- Divya Kampalli                  - deleteHM(), destroyHM(), dynamicArrSearch(), initArr(), destroyArr(), InsertAtArr(), initializeAndLoad(),loadBtree(),writeBtreeHeader(),initIndexManager(),insPropagateParent(),freeNodes()
-- Sai Jayanth Rajamahendravaram   - DeleteAtArr(), DeleteOneArr(), DeleteAllArr(), emptyArr(), freePointer(), createBtree(), printTree(), shutdownIndexManager(), openBtree(),closeBtree(), deleteBtree(), getNumNodes(), getNumEntries(),deleteKey(), openTreeScan(), nextEntry()
-- Sri Samhitha Bobba              - getAttr(), destroyBTNode(),printNodeHelper(),readNode(),writeNode(),printNode(), stack_init()
-
 #### HOW TO EXECUTE THE SCRIPT
 
 1. Open terminal 
