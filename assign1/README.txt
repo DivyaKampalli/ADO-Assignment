@@ -2,18 +2,6 @@
 
 ## Storage Manager
 
-### Team Members:
-- Abhiram Ravipati                 - aravipati@hawk.iit.edu      - A20539084 
-- Divya Kampalli                   - kdivya1@hawk.iit.edu        - A20539479   
-- Sai Jayanth Rajamahendravaram    - srajamahendram@hawk.iit.edu - A20539434
-- Sri Samhitha Bobba               - sbobba1@hawk.iit.edu        - A20541559
-
-### Contributions
-- Abhiram Ravipati                - CreatePageFile(), openPageFile(),readBlock() , destroyPageFile()
-- Divya Kampalli                  - GetBlockPos(), writeBlock(), appendEmptyBlock(), ensureCapacity(), closePageFile()
-- Sai Jayanth Rajamahendravaram   - writeCurrentBlock(), readCurrentBlock(), readNextBlock()
-- Sri Samhitha Bobba              - readFirstBlock(), readLastBlock(), readPreviousBlock()
-
 #### HOW TO EXECUTE THE SCRIPT
 
 1. Open terminal 
