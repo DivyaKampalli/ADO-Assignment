@@ -2,18 +2,6 @@
 
 ## Record Manager
 
-### Team Members:
-- Abhiram Ravipati                 - aravipati@hawk.iit.edu      - A20539084 
-- Divya Kampalli                   - kdivya1@hawk.iit.edu        - A20539479   
-- Sai Jayanth Rajamahendravaram    - srajamahendram@hawk.iit.edu - A20539434
-- Sri Samhitha Bobba               - sbobba1@hawk.iit.edu        - A20541559
-
-### Contributions
-- Abhiram Ravipati                - initRecordManager(), shutdownRecordManager(), createTable(), openTable(), createRecord()
-- Divya Kampalli                  - closeTable(), deleteTable(), getNumTuples(), insertRecord(), deleteRecord(), updateRecord(), getRecord(),freeRecord()
-- Sai Jayanth Rajamahendravaram   - startScan(), next(), getRecordSize(), createSchema(), freeSchema(), 
-- Sri Samhitha Bobba              - getAttr(), setAttr()
-
 #### HOW TO EXECUTE THE SCRIPT
 
 1. Open terminal 
